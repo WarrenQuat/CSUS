@@ -1,0 +1,32 @@
+John Smith
+1001
+SmithJ@csus.edu
+111-1154
+Earl Jones
+2002
+JonesE@csus.edu
+111-2343
+Maria Ayala
+3003
+AyalaM@csus.edu
+111-2355
+Sandra Rodriguez
+4004
+RodriguezS@csus.edu
+111-5523
+Laurel Davis
+5005
+DavisL@csus.edu
+111-2222
+Jasmine Torres
+6006
+TorresJ@csus.edu
+111-3232
+Kim East
+7007
+EastK@csus.edu
+111-0789
+Taylor Reyes
+8008
+Reyes@csus.edu
+111-6979

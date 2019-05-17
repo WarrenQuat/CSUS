@@ -1,0 +1,46 @@
+Script started on Sat 22 Sep 2018 11:08:26 PM PDT
+[quattrow@athena:4]> cat lab3.c
+/*------------------*/
+/*Warren Quattrocchi*/
+/* Lab 3            */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+    int age = 25;
+    double average = 246.7531986;
+    
+    printf("\nWarren Quattrocchi. Lab 3.\n\n");
+    printf("The dog ran quickly.\n\n");
+    printf("Joe is %i years old.\n\n", age);
+    printf("\"So many books, so little time.\"\n");
+    printf("-Frank Zappa\n\n");
+    printf("The average = %5.1f \n\n", average);
+    printf("The average = %7.3f \n\n", average);
+    printf("The average = %-20.2e \n\n", average);
+    return EXIT_SUCCESS;
+}
+[quattrow@athena:5]> gx[Kcc lab3.c
+[quattrow@athena:6]> a.out
+
+Warren Quattrocchi. Lab 3.
+
+The dog ran quickly.
+
+Joe is 25 years old.
+
+"So many books, so little time."
+-Frank Zappa
+
+The average = 246.8 
+
+The average = 246.753 
+
+The average = 2.47e+02             
+
+[quattrow@athena:7]> exit
+exit
+
+Script done on Sat 22 Sep 2018 11:08:46 PM PDT

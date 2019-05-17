@@ -1,0 +1,41 @@
+Script started on Sat 01 Dec 2018 01:28:57 AM PST
+[quattrow@atoz:21]> gcc lab9.c
+[quattrow@atoz:22]> a.out
+csc60mshell> 
+argc = 0 
+csc60mshell>    
+argc = 0 
+csc60mshell> pwd
+argc = 1 
+Argv 0 = pwd 
+/gaia/class/student/quattrow/csc60/lab9 
+csc60mshell> cd ..
+argc = 2 
+Argv 0 = cd 
+Argv 1 = .. 
+csc60mshell> pwd
+argc = 1 
+Argv 0 = pwd 
+/gaia/class/student/quattrow/csc60 
+csc60mshell> cd lab9
+argc = 2 
+Argv 0 = cd 
+Argv 1 = lab9 
+csc60mshell> pwd
+argc = 1 
+Argv 0 = pwd 
+/gaia/class/student/quattrow/csc60/lab9 
+csc60mshell> cd
+argc = 1 
+Argv 0 = cd 
+csc60mshell> pwd
+argc = 1 
+Argv 0 = pwd 
+/gaia/class/student/quattrow 
+csc60mshell> exit
+argc = 1 
+Argv 0 = exit 
+[quattrow@atoz:23]> exit
+exit
+
+Script done on Sat 01 Dec 2018 01:29:40 AM PST

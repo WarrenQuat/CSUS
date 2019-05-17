@@ -1,0 +1,116 @@
+A Brief History of Time
+Stephen Hawking
+Science
+03/01/1988
+Prime Obsession
+John Derbyshire
+Math
+2003
+Artificial Intelligence: A modern Approach
+Peter Norvig and Stuart J. Russell
+Computer Science
+12/13/1994
+What is Mathematics?
+Herbert Robbins and Richard Courant 
+Math
+1941
+Bloodlands
+Timothy D. Snyder
+History
+10/12/2010
+Guns, Germs, and Steel
+Jared Diamond
+History
+1997
+1491: New Relevations of the Americas Before Columbus 
+Charles C. Mann 
+History 
+1995
+1776
+David McCullough
+History 
+2005
+A Peoples History of the United States
+Howard Zinn 
+History
+1980
+The Guns of August
+Barbara W. Tuchman 
+History
+1962
+The Devil in White City: Murder, Magic, and Madness at the fair that changed America
+Erik Larson
+History
+2003
+A Distant Mirror
+Barbara W. Tuchman
+History
+1978
+Silent Spring 
+Rachel Carson
+Science
+1962
+On the Origin of Species
+Charles darwin 
+Science
+1859
+Thinking Fast and Slow
+Daniel Kahneman
+Science
+2011
+The Immortal Life of Henrietta Lacks
+Rebecca Skloot
+Science 
+2010
+A Short history of Nearly Everything 
+Bill Bryson
+Science
+2003
+The power of Habit
+Charles Duhigg
+Science
+2012
+Packing For Mars
+Mary Roach
+Science 
+2010
+Wonderful Life: The Burgess Shale and the Nature of History
+Stephen Jay Gould
+Science
+1989
+Lab Girl
+Hope Jahren
+Science
+2016
+How to Sove It
+George Poyla
+Math
+1945
+The princeton Companion to Mathmatics
+Timothy Gowers and June Barrow-Green
+Math
+2008
+Journey through Genius
+William Dunham
+Math
+1990
+Code: The hidden Language of Computer Hardware and Software
+Charles Petzold
+Computer Science
+1999
+The Mythical Man-Month 
+Fred Brooks
+Computer Science
+1975
+Code Complete
+Steve mcConnell
+Computer science
+1993
+Introduction to the theory of Computation 
+Micheal Sipser
+Computer Science
+1996
+Programming Pearls
+Jon bentley
+Computer Science 
+1986

@@ -1,0 +1,19 @@
+!1237;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!1858;d
+[\012  grasp [\012   legendy -33.0\012   legendx -0.25\012   version 1\012   winflags 3\012   eheight 972\012   ewidth 960\012   height 972\012   width 960\012   wbp 0\012   initlayout 0\012   yoffs 1.75\012   xoffs -2.0\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "amount\\011I\\011\\0112\\011\\011\\011Stock\011datePurchased\\011Ljava/util/Date;\\011\\0112\\011\\011\\011Stock\011dateSold\\011Ljava/util/Date;\\011\\0112\\011\\011\\011Stock\011name\\011Ljava/lang/String;\\011\\0112\\011\\011\\011Stock\011price\\011D\\011\\0112\\011\\011\\011Stock\011Stock\\011(ILjava/lang/String;D)V\\011c\\0111\\011\\011\\011Stock\011difference\\011(D)D\\011\\0111\\011\\011\\011Stock\011equals\\011(Ljava/lang/Object;)Z\\011\\0111\\011\\011\\011Stock\011getAmount\\011()I\\011\\0111\\011\\011\\011Stock\011getName\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011Stock\011getPrice\\011()D\\011\\0111\\011\\011\\011Stock\011getProfit\\011(D)D\\011\\0111\\011\\011\\011Stock\011sell\\011(ID)D\\011\\0111\\011\\011\\011Stock\011sellAll\\011(D)D\\011\\0111\\011\\011\\011Stock\011setAmount\\011(I)V\\011\\0111\\011\\011\\011Stock\011setDateSold\\011(Ljava/util/Date;)V\\011\\0111\\011\\011\\011Stock\011setName\\011(Ljava/lang/String;)V\\011\\0111\\011\\011\\011Stock\011setPrice\\011(D)V\\011\\0111\\011\\011\\011Stock\011toString\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011Stock"\012    condition 0\012    access2 0\012    access 2228257\012    classname "Stock"\012    fromclassfiledate 1517976427556\012    fromclassfilename "%\011Stock.class"\012    fromfilename "%\011Stock.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -0.5\012     y -0.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!16;g
+%\011Stock.java
+!16;f
+%\011Stock.java

@@ -1,0 +1,9 @@
+the program will run the results in order as follows
+1) the bst will be filled and printed
+2) the bst will delete the root and print the tree until it is empty
+
+3)the avl tree will be filled with unique values and printed 
+	it will notify of which rotation occured and at which node
+4)the avl tree will delete the root and print the tree until it is empty
+
+5)the avl tree and bst will be timed

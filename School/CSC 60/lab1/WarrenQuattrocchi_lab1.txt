@@ -1,0 +1,34 @@
+Script started on Thu 06 Sep 2018 10:01:25 PM PDT
+[quattrow@athena:15]> cat lab1.c
+/*--------------------------*/
+/*Warren Quattrocchi        */
+/*Lab1                      */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main (void)
+{
+   printf("\nLab 1 \n\n");
+   printf("Hello World\n");
+   printf("Hi, Warren Quattrocchi \n\n");
+   printf("I eat stickers all the time dude.\n");
+   printf("- Charlie Kelly \n\n");
+   return EXIT_SUCCESS;
+}
+/*-------------------------*/
+[quattrow@athena:16]> gcc lab1.c
+[quattrow@athena:17]> a.out
+
+Lab 1 
+
+Hello World
+Hi, Warren Quattrocchi 
+
+I eat stickers all the time dude.
+- Charlie Kelly 
+
+[quattrow@athena:18]> exit
+exit
+
+Script done on Thu 06 Sep 2018 10:01:49 PM PDT

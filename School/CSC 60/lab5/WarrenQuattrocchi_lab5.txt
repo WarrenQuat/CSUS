@@ -1,0 +1,105 @@
+Script started on Mon 15 Oct 2018 12:23:11 AM PDT
+[quattrow@athena:9]> cat lab5.h
+//Lab 5 header file
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+#define IN_FILE  "lab5.dat"
+#define OUT_FILE "lab5.out"
+
+/* function prototype */
+void compute(double radius, double *area, double *cir); 
+
+[quattrow@athena:10]> cat lab5.c
+/*-------------------------------------------------------*/
+/* Warren Quattrocchi.                                    */
+/* LAB 5, functions that "return" more than one value    */
+/* Given the radius, find the area and the circumference */
+/* of a circle                                           */
+
+#include "lab5.h"
+
+int main(void)
+{
+    double radius;	/* radius of a circle */
+    double area;	/* area of the circle */	
+    double cir;		/* circumference of the circle */
+
+    FILE * data_in;     /* input file pointer */
+    FILE * data_out;    /* output file pointer */
+
+
+	/* Open the two required files */
+    data_in = fopen(IN_FILE, "r");
+    if (data_in == NULL)
+    {
+       printf("Error on fopen file %s \n", IN_FILE);
+       exit(EXIT_FAILURE);
+    }
+
+    data_out = fopen(OUT_FILE, "w");
+    if (data_out == NULL)
+    {
+       printf("Error on fopen file %s \n", OUT_FILE);
+       exit(EXIT_FAILURE);
+    }
+
+    /* Print headers */
+    fprintf(data_out, "\nWarren Quattrocchi.  Lab 5. \n\n");
+    fprintf(data_out, " Radius	    Area     Circumference  \n");
+    fprintf(data_out, "--------  --------  --------------- \n");
+
+	/* Loop thru the values to compute the answers  */
+    while ((fscanf(data_in, "%lf", &radius))== 1)
+    {
+	compute(radius, &area, &cir);
+
+        fprintf(data_out,"%7.2f  %8.2f  %11.2f  \n",
+                radius, area, cir);
+    }
+    fprintf(data_out, "\n");
+    fclose(data_in);
+    fclose(data_out);
+    return EXIT_SUCCESS;
+}
+/*-----------------------------------------------------------*/
+[quattrow@athena:11]> cat compute.c
+#include "lab5.h"
+
+void compute(double radius, double *area, double *cir)
+{
+	*area = M_PI * radius * radius;
+	*cir = 2 * M_PI * radius;
+}
+[quattrow@athena:12]> cat makefile
+lab5: lab5.o compute.o lab5.h
+	gcc -o lab5  lab5.o compute.o -lm
+lab5.o: lab5.c lab5.h
+	gcc -c lab5.c
+compute.o: compute.c lab5.h
+	gcc -c compute.c
+[quattrow@athena:13]> touch lab5.h
+[quattrow@athena:14]> make
+gcc -c lab5.c
+gcc -c compute.c
+gcc -o lab5  lab5.o compute.o -lm
+[quattrow@athena:15]> lab5
+[quattrow@athena:16]> cat lab5.out
+
+Warren Quattrocchi.  Lab 5. 
+
+ Radius	    Area     Circumference  
+--------  --------  --------------- 
+   3.70     43.01        23.25  
+   6.80    145.27        42.73  
+   4.00     50.27        25.13  
+   5.60     98.52        35.19  
+  12.70    506.71        79.80  
+  45.60   6532.50       286.51  
+
+[quattrow@athena:17]> ext[Kit
+exit
+
+Script done on Mon 15 Oct 2018 12:23:52 AM PDT

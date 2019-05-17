@@ -1,0 +1,36 @@
+Warren Quattrocchi
+CSC 139
+Section 7
+Assignment 1
+
+1)What is the CPU type and model?
+cat /proc/cpuinfo
+	Intel(R) Xeon(R) CPU E5-2640 0 @ 2.5GHZ
+2) What version of the Linux kernel is being used?
+cat /proc/version
+	Linux version 2.6.32-754.9.1.e16.i686
+3)How long (in days, hours, and minutes) has it been since the system was last booted?
+uptime
+cat /proc/uptime
+	62 days, 3 hours, 10 minutes
+4) How much of the total CPU time has been spent executing in user mode? System mode? Idle?
+Cat /proc/stat
+	user: 2096020
+	system: 2544150
+	idle: 2147483647
+5) How much memory is configured into it?
+Cat /proc/meminfo
+	4019000 kB
+6)How much memory is currently available on it?
+Cat /proc/meminfo
+	128772kB
+7)How many disks read/write requests have been made?
+Cat /proc/diskstats
+	total reads: 2352933
+	total writes: 2874592
+8)How many context switches has the kernel performed?
+Cat /proc/stat
+	1035190024
+9)How many processes have been created since the system was booted?
+Cat /proc/stat
+	20578082

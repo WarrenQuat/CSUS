@@ -1,0 +1,1659 @@
+Printing Binary search Tree
+                                                                                                                                76 
+                                                                                                                                /\ 
+                                                                  --------------------------------------------------------------  --------------------------------------------------------------
+                                                                 /                                                                                                                              \
+                                                                72                                                                                                                              82 
+                                                                /                                                                                                                               /\ 
+                                  ------------------------------                                                                                                  ------------------------------  ------------------------------
+                                 /                                                                                                                               /                                                              \
+                                34                                                                                                                              79                                                              84 
+                                /\                                                                                                                                                                                               \ 
+                  --------------  --------------                                                                                                                                                                                  --------------
+                 /                              \                                                                                                                                                                                               \
+                15                              40                                                                                                                                                                                              90 
+                /\                               \                                                                                                                                                                                                 
+          ------  ------                          ------                                                                                                                                                                                                
+         /              \                               \                                                                                                                                                                                                
+        12              30                              60                                                                                                                                                                                                 
+                        /\                               \                                                                                                                                                                                                 
+                      --  --                              --                                                                                                                                                                                                
+                     /      \                               \                                                                                                                                                                                                
+                    16      33                              70                                                                                                                                                                                                 
+                     \                                                                                                                                                                                                                                         
+                      \                                                                                                                                                                                                                                        
+                      20                                                                                                                                                                                                                                         
+Press enter to delete next root
+
+deleting 76
+Printing Binary search Tree
+                                                                                                                                79 
+                                                                                                                                /\ 
+                                                                  --------------------------------------------------------------  --------------------------------------------------------------
+                                                                 /                                                                                                                              \
+                                                                72                                                                                                                              82 
+                                                                /                                                                                                                                \ 
+                                  ------------------------------                                                                                                                                  ------------------------------
+                                 /                                                                                                                                                                                              \
+                                34                                                                                                                                                                                              84 
+                                /\                                                                                                                                                                                               \ 
+                  --------------  --------------                                                                                                                                                                                  --------------
+                 /                              \                                                                                                                                                                                               \
+                15                              40                                                                                                                                                                                              90 
+                /\                               \                                                                                                                                                                                                 
+          ------  ------                          ------                                                                                                                                                                                                
+         /              \                               \                                                                                                                                                                                                
+        12              30                              60                                                                                                                                                                                                 
+                        /\                               \                                                                                                                                                                                                 
+                      --  --                              --                                                                                                                                                                                                
+                     /      \                               \                                                                                                                                                                                                
+                    16      33                              70                                                                                                                                                                                                 
+                     \                                                                                                                                                                                                                                         
+                      \                                                                                                                                                                                                                                        
+                      20                                                                                                                                                                                                                                         
+Press enter to delete next root
+
+deleting 79
+Printing Binary search Tree
+                                                                                                                                82 
+                                                                                                                                /\ 
+                                                                  --------------------------------------------------------------  --------------------------------------------------------------
+                                                                 /                                                                                                                              \
+                                                                72                                                                                                                              84 
+                                                                /                                                                                                                                \ 
+                                  ------------------------------                                                                                                                                  ------------------------------
+                                 /                                                                                                                                                                                              \
+                                34                                                                                                                                                                                              90 
+                                /\                                                                                                                                                                                                 
+                  --------------  --------------                                                                                                                                                                                                
+                 /                              \                                                                                                                                                                                                
+                15                              40                                                                                                                                                                                                 
+                /\                               \                                                                                                                                                                                                 
+          ------  ------                          ------                                                                                                                                                                                                
+         /              \                               \                                                                                                                                                                                                
+        12              30                              60                                                                                                                                                                                                 
+                        /\                               \                                                                                                                                                                                                 
+                      --  --                              --                                                                                                                                                                                                
+                     /      \                               \                                                                                                                                                                                                
+                    16      33                              70                                                                                                                                                                                                 
+                     \                                                                                                                                                                                                                                         
+                      \                                                                                                                                                                                                                                        
+                      20                                                                                                                                                                                                                                         
+Press enter to delete next root
+
+deleting 82
+Printing Binary search Tree
+                                                                                                                                84 
+                                                                                                                                /\ 
+                                                                  --------------------------------------------------------------  --------------------------------------------------------------
+                                                                 /                                                                                                                              \
+                                                                72                                                                                                                              90 
+                                                                /                                                                                                                                  
+                                  ------------------------------                                                                                                                                                                
+                                 /                                                                                                                                                                                               
+                                34                                                                                                                                                                                                 
+                                /\                                                                                                                                                                                                 
+                  --------------  --------------                                                                                                                                                                                                
+                 /                              \                                                                                                                                                                                                
+                15                              40                                                                                                                                                                                                 
+                /\                               \                                                                                                                                                                                                 
+          ------  ------                          ------                                                                                                                                                                                                
+         /              \                               \                                                                                                                                                                                                
+        12              30                              60                                                                                                                                                                                                 
+                        /\                               \                                                                                                                                                                                                 
+                      --  --                              --                                                                                                                                                                                                
+                     /      \                               \                                                                                                                                                                                                
+                    16      33                              70                                                                                                                                                                                                 
+                     \                                                                                                                                                                                                                                         
+                      \                                                                                                                                                                                                                                        
+                      20                                                                                                                                                                                                                                         
+Press enter to delete next root
+
+deleting 84
+Printing Binary search Tree
+                                                                                                                                90 
+                                                                                                                                /  
+                                                                  --------------------------------------------------------------                                                                
+                                                                 /                                                                                                                               
+                                                                72                                                                                                                                 
+                                                                /                                                                                                                                  
+                                  ------------------------------                                                                                                                                                                
+                                 /                                                                                                                                                                                               
+                                34                                                                                                                                                                                                 
+                                /\                                                                                                                                                                                                 
+                  --------------  --------------                                                                                                                                                                                                
+                 /                              \                                                                                                                                                                                                
+                15                              40                                                                                                                                                                                                 
+                /\                               \                                                                                                                                                                                                 
+          ------  ------                          ------                                                                                                                                                                                                
+         /              \                               \                                                                                                                                                                                                
+        12              30                              60                                                                                                                                                                                                 
+                        /\                               \                                                                                                                                                                                                 
+                      --  --                              --                                                                                                                                                                                                
+                     /      \                               \                                                                                                                                                                                                
+                    16      33                              70                                                                                                                                                                                                 
+                     \                                                                                                                                                                                                                                         
+                      \                                                                                                                                                                                                                                        
+                      20                                                                                                                                                                                                                                         
+Press enter to delete next root
+deleting 90
+Printing Binary search Tree
+                                                                72 
+                                                                /  
+                                  ------------------------------                                
+                                 /                                                               
+                                34                                                                 
+                                /\                                                                 
+                  --------------  --------------                                                                
+                 /                              \                                                                
+                15                              40                                                                 
+                /\                               \                                                                 
+          ------  ------                          ------                                                                
+         /              \                               \                                                                
+        12              30                              60                                                                 
+                        /\                               \                                                                 
+                      --  --                              --                                                                
+                     /      \                               \                                                                
+                    16      33                              70                                                                 
+                     \                                                                                                         
+                      \                                                                                                        
+                      20                                                                                                         
+Press enter to delete next root
+
+deleting 72
+Printing Binary search Tree
+                                34 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                15                              40 
+                /\                               \ 
+          ------  ------                          ------
+         /              \                               \
+        12              30                              60 
+                        /\                               \ 
+                      --  --                              --
+                     /      \                               \
+                    16      33                              70 
+                     \                                         
+                      \                                        
+                      20                                         
+Press enter to delete next root
+
+deleting 34
+Printing Binary search Tree
+                                40 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                15                              60 
+                /\                               \ 
+          ------  ------                          ------
+         /              \                               \
+        12              30                              70 
+                        /\                                 
+                      --  --                                
+                     /      \                                
+                    16      33                                 
+                     \                                         
+                      \                                        
+                      20                                         
+Press enter to delete next root
+
+deleting 40
+Printing Binary search Tree
+                                60 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                15                              70 
+                /\                                 
+          ------  ------                                
+         /              \                                
+        12              30                                 
+                        /\                                 
+                      --  --                                
+                     /      \                                
+                    16      33                                 
+                     \                                         
+                      \                                        
+                      20                                         
+Press enter to delete next root
+
+deleting 60
+Printing Binary search Tree
+                                70 
+                                /  
+                  --------------                
+                 /                               
+                15                                 
+                /\                                 
+          ------  ------                                
+         /              \                                
+        12              30                                 
+                        /\                                 
+                      --  --                                
+                     /      \                                
+                    16      33                                 
+                     \                                         
+                      \                                        
+                      20                                         
+Press enter to delete next root
+
+deleting 70
+Printing Binary search Tree
+                15 
+                /\ 
+          ------  ------
+         /              \
+        12              30 
+                        /\ 
+                      --  --
+                     /      \
+                    16      33 
+                     \         
+                      \        
+                      20         
+Press enter to delete next root
+
+deleting 15
+Printing Binary search Tree
+        16 
+        /\ 
+      --  --
+     /      \
+    12      30 
+            /\ 
+           /  \
+          20  33 
+Press enter to delete next root
+deleting 16
+Printing Binary search Tree
+        20 
+        /\ 
+      --  --
+     /      \
+    12      30 
+             \ 
+              \
+              33 
+Press enter to delete next root
+
+deleting 20
+Printing Binary search Tree
+    30 
+    /\ 
+   /  \
+  12  33 
+Press enter to delete next root
+
+deleting 30
+Printing Binary search Tree
+    33 
+    /  
+   /   
+  12     
+Press enter to delete next root
+
+deleting 33
+Printing Binary search Tree
+  12 
+Press enter to delete next root
+
+deleting 12
+Printing Binary search Tree
+--------------------Press enter to generate AVL tree-------------------
+
+Press enter to add next value
+
+Inserting 68
+Printing updated AVL tree
+  68 
+Press enter to add next value
+
+Inserting 10
+Printing updated AVL tree
+    68 
+    /  
+   /   
+  10     
+Press enter to add next value
+
+Inserting 39
+Double left right rotation occured on 68
+Printing updated AVL tree
+    39 
+    /\ 
+   /  \
+  10  68 
+Press enter to add next value
+
+Inserting 16
+Printing updated AVL tree
+        39 
+        /\ 
+      --  --
+     /      \
+    10      68 
+     \         
+      \        
+      16         
+Press enter to add next value
+
+Inserting 62
+Printing updated AVL tree
+        39 
+        /\ 
+      --  --
+     /      \
+    10      68 
+     \      /  
+      \    /   
+      16  62     
+Press enter to add next value
+
+Inserting 19
+Single left rotation occured on 10
+Printing updated AVL tree
+        39 
+        /\ 
+      --  --
+     /      \
+    16      68 
+    /\      /  
+   /  \    /   
+  10  19  62     
+Press enter to add next value
+
+Inserting 56
+Single right rotation occured on 68
+Printing updated AVL tree
+        39 
+        /\ 
+      --  --
+     /      \
+    16      62 
+    /\      /\ 
+   /  \    /  \
+  10  19  56  68 
+Press enter to add next value
+
+Inserting 76
+Printing updated AVL tree
+                39 
+                /\ 
+          ------  ------
+         /              \
+        16              62 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+    10      19      56      68 
+                             \ 
+                              \
+                              76 
+Press enter to add next value
+
+Inserting 58
+Printing updated AVL tree
+                39 
+                /\ 
+          ------  ------
+         /              \
+        16              62 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+    10      19      56      68 
+                     \       \ 
+                      \       \
+                      58      76 
+Press enter to add next value
+
+Inserting 61
+Single left rotation occured on 56
+Printing updated AVL tree
+                39 
+                /\ 
+          ------  ------
+         /              \
+        16              62 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+    10      19      58      68 
+                    /\       \ 
+                   /  \       \
+                  56  61      76 
+Press enter to add next value
+
+Inserting 4
+Printing updated AVL tree
+                39 
+                /\ 
+          ------  ------
+         /              \
+        16              62 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+    10      19      58      68 
+    /               /\       \ 
+   /               /  \       \
+   4              56  61      76 
+Press enter to add next value
+
+Inserting 17
+Printing updated AVL tree
+                39 
+                /\ 
+          ------  ------
+         /              \
+        16              62 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+    10      19      58      68 
+    /       /       /\       \ 
+   /       /       /  \       \
+   4      17      56  61      76 
+Press enter to add next value
+
+Inserting 45
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+        10              19              58              68 
+        /               /               /\               \ 
+      --              --              --  --              --
+     /               /               /      \               \
+     4              17              56      61              76 
+                                    /                          
+                                   /                           
+                                  45                             
+Press enter to add next value
+
+Inserting 75
+Double right left rotation occured on 68
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+        10              19              58              75 
+        /               /               /\              /\ 
+      --              --              --  --          --  --
+     /               /               /      \        /      \
+     4              17              56      61      68      76 
+                                    /                          
+                                   /                           
+                                  45                             
+Press enter to add next value
+
+Inserting 8
+Double left right rotation occured on 10
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              58              75 
+        /\              /               /\              /\ 
+      --  --          --              --  --          --  --
+     /      \        /               /      \        /      \
+     4      10      17              56      61      68      76 
+                                    /                          
+                                   /                           
+                                  45                             
+Press enter to add next value
+
+Inserting 100
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              58              75 
+        /\              /               /\              /\ 
+      --  --          --              --  --          --  --
+     /      \        /               /      \        /      \
+     4      10      17              56      61      68      76 
+                                    /                        \ 
+                                   /                          \
+                                  45                         100 
+Press enter to add next value
+
+Inserting 49
+Double left right rotation occured on 56
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              58              75 
+        /\              /               /\              /\ 
+      --  --          --              --  --          --  --
+     /      \        /               /      \        /      \
+     4      10      17              49      61      68      76 
+                                    /\                       \ 
+                                   /  \                       \
+                                  45  56                     100 
+Press enter to add next value
+
+Inserting 29
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              58              75 
+        /\              /\              /\              /\ 
+      --  --          --  --          --  --          --  --
+     /      \        /      \        /      \        /      \
+     4      10      17      29      49      61      68      76 
+                                    /\                       \ 
+                                   /  \                       \
+                                  45  56                     100 
+Press enter to add next value
+
+Inserting 40
+Single right rotation occured on 58
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              49              75 
+        /\              /\              /\              /\ 
+      --  --          --  --          --  --          --  --
+     /      \        /      \        /      \        /      \
+     4      10      17      29      45      58      68      76 
+                                    /       /\               \ 
+                                   /       /  \               \
+                                  40      56  61             100 
+Press enter to add next value
+
+Inserting 37
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              49              75 
+        /\              /\              /\              /\ 
+      --  --          --  --          --  --          --  --
+     /      \        /      \        /      \        /      \
+     4      10      17      29      45      58      68      76 
+                             \      /       /\               \ 
+                              \    /       /  \               \
+                              37  40      56  61             100 
+Press enter to add next value
+
+Inserting 7
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              49              75 
+        /\              /\              /\              /\ 
+      --  --          --  --          --  --          --  --
+     /      \        /      \        /      \        /      \
+     4      10      17      29      45      58      68      76 
+     \                       \      /       /\               \ 
+      \                       \    /       /  \               \
+       7                      37  40      56  61             100 
+Press enter to add next value
+
+Inserting 21
+Printing updated AVL tree
+                                39 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              62 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              49              75 
+        /\              /\              /\              /\ 
+      --  --          --  --          --  --          --  --
+     /      \        /      \        /      \        /      \
+     4      10      17      29      45      58      68      76 
+     \                      /\      /       /\               \ 
+      \                    /  \    /       /  \               \
+       7                  21  37  40      56  61             100 
+Press enter to add next value
+
+Inserting 55
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              19                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              17              29              45              58              68              76 
+         \                                              /\              /               /\                               \ 
+          --                                          --  --          --              --  --                              --
+            \                                        /      \        /               /      \                               \
+             7                                      21      37      40              56      61                             100 
+                                                                                    /                                          
+                                                                                   /                                           
+                                                                                  55                                             
+Press enter to add next value
+
+Inserting 67
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              19                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              17              29              45              58              68              76 
+         \                                              /\              /               /\              /                \ 
+          --                                          --  --          --              --  --          --                  --
+            \                                        /      \        /               /      \        /                      \
+             7                                      21      37      40              56      61      67                     100 
+                                                                                    /                                          
+                                                                                   /                                           
+                                                                                  55                                             
+Press enter to add next value
+
+Inserting 33
+Single left rotation occured on 19
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              45              58              68              76 
+         \                              /\              /               /               /\              /                \ 
+          --                          --  --          --              --              --  --          --                  --
+            \                        /      \        /               /               /      \        /                      \
+             7                      17      21      33              40              56      61      67                     100 
+                                                                                    /                                          
+                                                                                   /                                           
+                                                                                  55                                             
+Press enter to add next value
+
+Inserting 14
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              45              58              68              76 
+         \               \              /\              /               /               /\              /                \ 
+          --              --          --  --          --              --              --  --          --                  --
+            \               \        /      \        /               /               /      \        /                      \
+             7              14      17      21      33              40              56      61      67                     100 
+                                                                                    /                                          
+                                                                                   /                                           
+                                                                                  55                                             
+Press enter to add next value
+
+Inserting 50
+Single right rotation occured on 56
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              45              58              68              76 
+         \               \              /\              /               /               /\              /                \ 
+          --              --          --  --          --              --              --  --          --                  --
+            \               \        /      \        /               /               /      \        /                      \
+             7              14      17      21      33              40              55      61      67                     100 
+                                                                                    /\                                         
+                                                                                   /  \                                        
+                                                                                  50  56                                         
+Press enter to add next value
+
+Inserting 42
+Double left right rotation occured on 45
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              42              58              68              76 
+         \               \              /\              /               /\              /\              /                \ 
+          --              --          --  --          --              --  --          --  --          --                  --
+            \               \        /      \        /               /      \        /      \        /                      \
+             7              14      17      21      33              40      45      55      61      67                     100 
+                                                                                    /\                                         
+                                                                                   /  \                                        
+                                                                                  50  56                                         
+Press enter to add next value
+
+Inserting 92
+Double right left rotation occured on 76
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              42              58              68              92 
+         \               \              /\              /               /\              /\              /               /\ 
+          --              --          --  --          --              --  --          --  --          --              --  --
+            \               \        /      \        /               /      \        /      \        /               /      \
+             7              14      17      21      33              40      45      55      61      67              76     100 
+                                                                                    /\                                         
+                                                                                   /  \                                        
+                                                                                  50  56                                         
+Press enter to add next value
+
+Inserting 26
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              42              58              68              92 
+         \               \              /\              /               /\              /\              /               /\ 
+          --              --          --  --          --              --  --          --  --          --              --  --
+            \               \        /      \        /               /      \        /      \        /               /      \
+             7              14      17      21      33              40      45      55      61      67              76     100 
+                                             \                                      /\                                         
+                                              \                                    /  \                                        
+                                              26                                  50  56                                         
+Press enter to add next value
+
+Inserting 28
+Single left rotation occured on 21
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              42              58              68              92 
+         \               \              /\              /               /\              /\              /               /\ 
+          --              --          --  --          --              --  --          --  --          --              --  --
+            \               \        /      \        /               /      \        /      \        /               /      \
+             7              14      17      26      33              40      45      55      61      67              76     100 
+                                            /\                                      /\                                         
+                                           /  \                                    /  \                                        
+                                          21  28                                  50  56                                         
+Press enter to add next value
+
+Inserting 78
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              10              19              37              42              58              68              92 
+         \               \              /\              /               /\              /\              /               /\ 
+          --              --          --  --          --              --  --          --  --          --              --  --
+            \               \        /      \        /               /      \        /      \        /               /      \
+             7              14      17      26      33              40      45      55      61      67              76     100 
+                                            /\                                      /\                               \         
+                                           /  \                                    /  \                               \        
+                                          21  28                                  50  56                              78         
+Press enter to add next value
+
+Inserting 15
+Single left rotation occured on 10
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              42              58              68              92 
+         \              /\              /\              /               /\              /\              /               /\ 
+          --          --  --          --  --          --              --  --          --  --          --              --  --
+            \        /      \        /      \        /               /      \        /      \        /               /      \
+             7      10      15      17      26      33              40      45      55      61      67              76     100 
+                                            /\                                      /\                               \         
+                                           /  \                                    /  \                               \        
+                                          21  28                                  50  56                              78         
+Press enter to add next value
+
+Inserting 72
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              42              58              68              92 
+         \              /\              /\              /               /\              /\              /\              /\ 
+          --          --  --          --  --          --              --  --          --  --          --  --          --  --
+            \        /      \        /      \        /               /      \        /      \        /      \        /      \
+             7      10      15      17      26      33              40      45      55      61      67      72      76     100 
+                                            /\                                      /\                               \         
+                                           /  \                                    /  \                               \        
+                                          21  28                                  50  56                              78         
+Press enter to add next value
+
+Inserting 53
+Single right rotation occured on 58
+Printing updated AVL tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              42              55              68              92 
+         \              /\              /\              /               /\              /\              /\              /\ 
+          --          --  --          --  --          --              --  --          --  --          --  --          --  --
+            \        /      \        /      \        /               /      \        /      \        /      \        /      \
+             7      10      15      17      26      33              40      45      50      58      67      72      76     100 
+                                            /\                                       \      /\                       \         
+                                           /  \                                       \    /  \                       \        
+                                          21  28                                      53  56  61                      78         
+Printing Binary search Tree
+                                                                39 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              42              55              68              92 
+         \              /\              /\              /               /\              /\              /\              /\ 
+          --          --  --          --  --          --              --  --          --  --          --  --          --  --
+            \        /      \        /      \        /               /      \        /      \        /      \        /      \
+             7      10      15      17      26      33              40      45      50      58      67      72      76     100 
+                                            /\                                       \      /\                       \         
+                                           /  \                                       \    /  \                       \        
+                                          21  28                                      53  56  61                      78         
+Press enter to delete next root
+
+deleting 39
+Printing updated AVL tree
+                                                                40 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              49                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              42              55              68              92 
+         \              /\              /\              /                \              /\              /\              /\ 
+          --          --  --          --  --          --                  --          --  --          --  --          --  --
+            \        /      \        /      \        /                      \        /      \        /      \        /      \
+             7      10      15      17      26      33                      45      50      58      67      72      76     100 
+                                            /\                                       \      /\                       \         
+                                           /  \                                       \    /  \                       \        
+                                          21  28                                      53  56  61                      78         
+Press enter to delete next root
+
+deleting 40
+Single left rotation occured on 49
+Printing updated AVL tree
+                                                                42 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              55                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              49              58              68              92 
+         \              /\              /\              /               /\              /\              /\              /\ 
+          --          --  --          --  --          --              --  --          --  --          --  --          --  --
+            \        /      \        /      \        /               /      \        /      \        /      \        /      \
+             7      10      15      17      26      33              45      50      56      61      67      72      76     100 
+                                            /\                               \                                       \         
+                                           /  \                               \                                       \        
+                                          21  28                              53                                      78         
+Press enter to delete next root
+
+deleting 42
+Single left rotation occured on 49
+Printing updated AVL tree
+                                                                45 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              55                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              50              58              68              92 
+         \              /\              /\              /               /\              /\              /\              /\ 
+          --          --  --          --  --          --              --  --          --  --          --  --          --  --
+            \        /      \        /      \        /               /      \        /      \        /      \        /      \
+             7      10      15      17      26      33              49      53      56      61      67      72      76     100 
+                                            /\                                                                       \         
+                                           /  \                                                                       \        
+                                          21  28                                                                      78         
+Press enter to delete next root
+
+deleting 45
+Printing updated AVL tree
+                                                                49 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              55                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              50              58              68              92 
+         \              /\              /\              /                \              /\              /\              /\ 
+          --          --  --          --  --          --                  --          --  --          --  --          --  --
+            \        /      \        /      \        /                      \        /      \        /      \        /      \
+             7      10      15      17      26      33                      53      56      61      67      72      76     100 
+                                            /\                                                                       \         
+                                           /  \                                                                       \        
+                                          21  28                                                                      78         
+Press enter to delete next root
+
+deleting 49
+Printing updated AVL tree
+                                                                50 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              55                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              53              58              68              92 
+         \              /\              /\              /                               /\              /\              /\ 
+          --          --  --          --  --          --                              --  --          --  --          --  --
+            \        /      \        /      \        /                               /      \        /      \        /      \
+             7      10      15      17      26      33                              56      61      67      72      76     100 
+                                            /\                                                                       \         
+                                           /  \                                                                       \        
+                                          21  28                                                                      78         
+Press enter to delete next root
+
+deleting 50
+Single left rotation occured on 55
+Printing updated AVL tree
+                                                                53 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              62 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              58                              75 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              55              61              68              92 
+         \              /\              /\              /                \                              /\              /\ 
+          --          --  --          --  --          --                  --                          --  --          --  --
+            \        /      \        /      \        /                      \                        /      \        /      \
+             7      10      15      17      26      33                      56                      67      72      76     100 
+                                            /\                                                                       \         
+                                           /  \                                                                       \        
+                                          21  28                                                                      78         
+Press enter to delete next root
+
+deleting 53
+Single left rotation occured on 62
+Printing updated AVL tree
+                                                                55 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              75 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              62                              92 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              58              68              76             100 
+         \              /\              /\              /               /\              /\               \                 
+          --          --  --          --  --          --              --  --          --  --              --                
+            \        /      \        /      \        /               /      \        /      \               \                
+             7      10      15      17      26      33              56      61      67      72              78                 
+                                            /\                                                                                 
+                                           /  \                                                                                
+                                          21  28                                                                                 
+Press enter to delete next root
+
+deleting 55
+Printing updated AVL tree
+                                                                56 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              75 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              62                              92 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              58              68              76             100 
+         \              /\              /\              /                \              /\               \                 
+          --          --  --          --  --          --                  --          --  --              --                
+            \        /      \        /      \        /                      \        /      \               \                
+             7      10      15      17      26      33                      61      67      72              78                 
+                                            /\                                                                                 
+                                           /  \                                                                                
+                                          21  28                                                                                 
+Press enter to delete next root
+
+deleting 56
+Printing updated AVL tree
+                                                                58 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              75 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              62                              92 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              61              68              76             100 
+         \              /\              /\              /                               /\               \                 
+          --          --  --          --  --          --                              --  --              --                
+            \        /      \        /      \        /                               /      \               \                
+             7      10      15      17      26      33                              67      72              78                 
+                                            /\                                                                                 
+                                           /  \                                                                                
+                                          21  28                                                                                 
+Press enter to delete next root
+
+deleting 58
+Single left rotation occured on 62
+Printing updated AVL tree
+                                                                61 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              75 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              68                              92 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              62              72              76             100 
+         \              /\              /\              /                \                               \                 
+          --          --  --          --  --          --                  --                              --                
+            \        /      \        /      \        /                      \                               \                
+             7      10      15      17      26      33                      67                              78                 
+                                            /\                                                                                 
+                                           /  \                                                                                
+                                          21  28                                                                                 
+Press enter to delete next root
+
+deleting 61
+Printing updated AVL tree
+                                                                62 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              75 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              68                              92 
+                /\                              /\                              /\                              /\ 
+          ------  ------                  ------  ------                  ------  ------                  ------  ------
+         /              \                /              \                /              \                /              \
+         4              14              19              37              67              72              76             100 
+         \              /\              /\              /                                                \                 
+          --          --  --          --  --          --                                                  --                
+            \        /      \        /      \        /                                                      \                
+             7      10      15      17      26      33                                                      78                 
+                                            /\                                                                                 
+                                           /  \                                                                                
+                                          21  28                                                                                 
+Press enter to delete next root
+
+deleting 62
+Printing updated AVL tree
+                                                                67 
+                                                                /\ 
+                                  ------------------------------  ------------------------------
+                                 /                                                              \
+                                16                                                              75 
+                                /\                                                              /\ 
+                  --------------  --------------                                  --------------  --------------
+                 /                              \                                /                              \
+                 8                              29                              68                              92 
+                /\                              /\                               \                              /\ 
+          ------  ------                  ------  ------                          ------                  ------  ------
+         /              \                /              \                               \                /              \
+         4              14              19              37                              72              76             100 
+         \              /\              /\              /                                                \                 
+          --          --  --          --  --          --                                                  --                
+            \        /      \        /      \        /                                                      \                
+             7      10      15      17      26      33                                                      78                 
+                                            /\                                                                                 
+                                           /  \                                                                                
+                                          21  28                                                                                 
+Press enter to delete next root
+
+deleting 67
+Double right left rotation occured on 75
+Double left right rotation occured on 68
+Printing updated AVL tree
+                                29 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              68 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              37              76 
+        /\              /\              /               /\ 
+      --  --          --  --          --              --  --
+     /      \        /      \        /               /      \
+     4      14      17      26      33              75      92 
+     \      /\              /\                      /       /\ 
+      \    /  \            /  \                    /       /  \
+       7  10  15          21  28                  72      78 100 
+Press enter to delete next root
+
+deleting 29
+Single left rotation occured on 68
+Printing updated AVL tree
+                                33 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              76 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              68              92 
+        /\              /\              /\              /\ 
+      --  --          --  --          --  --          --  --
+     /      \        /      \        /      \        /      \
+     4      14      17      26      37      75      78     100 
+     \      /\              /\              /                  
+      \    /  \            /  \            /                   
+       7  10  15          21  28          72                     
+Press enter to delete next root
+
+deleting 33
+Double right left rotation occured on 68
+Printing updated AVL tree
+                                37 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              76 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              72              92 
+        /\              /\              /\              /\ 
+      --  --          --  --          --  --          --  --
+     /      \        /      \        /      \        /      \
+     4      14      17      26      68      75      78     100 
+     \      /\              /\                                 
+      \    /  \            /  \                                
+       7  10  15          21  28                                 
+Press enter to delete next root
+
+deleting 37
+Printing updated AVL tree
+                                68 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              76 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              72              92 
+        /\              /\               \              /\ 
+      --  --          --  --              --          --  --
+     /      \        /      \               \        /      \
+     4      14      17      26              75      78     100 
+     \      /\              /\                                 
+      \    /  \            /  \                                
+       7  10  15          21  28                                 
+Press enter to delete next root
+
+deleting 68
+Printing updated AVL tree
+                                72 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              76 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              75              92 
+        /\              /\                              /\ 
+      --  --          --  --                          --  --
+     /      \        /      \                        /      \
+     4      14      17      26                      78     100 
+     \      /\              /\                                 
+      \    /  \            /  \                                
+       7  10  15          21  28                                 
+Press enter to delete next root
+
+deleting 72
+Single left rotation occured on 76
+Printing updated AVL tree
+                                75 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                16                              92 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         8              19              76             100 
+        /\              /\               \                 
+      --  --          --  --              --                
+     /      \        /      \               \                
+     4      14      17      26              78                 
+     \      /\              /\                                 
+      \    /  \            /  \                                
+       7  10  15          21  28                                 
+Press enter to delete next root
+
+deleting 75
+Single right rotation occured on 76
+Printing updated AVL tree
+                                16 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                 8                              76 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         4              14              19              92 
+         \              /\              /\              /\ 
+          --          --  --          --  --          --  --
+            \        /      \        /      \        /      \
+             7      10      15      17      26      78     100 
+                                            /\                 
+                                           /  \                
+                                          21  28                 
+Press enter to delete next root
+
+deleting 16
+Single left rotation occured on 19
+Printing updated AVL tree
+                                17 
+                                /\ 
+                  --------------  --------------
+                 /                              \
+                 8                              76 
+                /\                              /\ 
+          ------  ------                  ------  ------
+         /              \                /              \
+         4              14              26              92 
+         \              /\              /\              /\ 
+          --          --  --          --  --          --  --
+            \        /      \        /      \        /      \
+             7      10      15      19      28      78     100 
+                                     \                         
+                                      \                        
+                                      21                         
+Press enter to delete next root
+
+deleting 17
+Printing updated AVL tree
+                19 
+                /\ 
+          ------  ------
+         /              \
+         8              76 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+     4      14      26      92 
+     \      /\      /\      /\ 
+      \    /  \    /  \    /  \
+       7  10  15  21  28  78 100 
+Press enter to delete next root
+
+deleting 19
+Printing updated AVL tree
+                21 
+                /\ 
+          ------  ------
+         /              \
+         8              76 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+     4      14      26      92 
+     \      /\       \      /\ 
+      \    /  \       \    /  \
+       7  10  15      28  78 100 
+Press enter to delete next root
+
+deleting 21
+Printing updated AVL tree
+                26 
+                /\ 
+          ------  ------
+         /              \
+         8              76 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+     4      14      28      92 
+     \      /\              /\ 
+      \    /  \            /  \
+       7  10  15          78 100 
+Press enter to delete next root
+
+deleting 26
+Single left rotation occured on 76
+Printing updated AVL tree
+                28 
+                /\ 
+          ------  ------
+         /              \
+         8              92 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+     4      14      76     100 
+     \      /\       \         
+      \    /  \       \        
+       7  10  15      78         
+Press enter to delete next root
+
+deleting 28
+Printing updated AVL tree
+                76 
+                /\ 
+          ------  ------
+         /              \
+         8              92 
+        /\              /\ 
+      --  --          --  --
+     /      \        /      \
+     4      14      78     100 
+     \      /\                 
+      \    /  \                
+       7  10  15                 
+Press enter to delete next root
+
+deleting 76
+Printing updated AVL tree
+                78 
+                /\ 
+          ------  ------
+         /              \
+         8              92 
+        /\               \ 
+      --  --              --
+     /      \               \
+     4      14             100 
+     \      /\                 
+      \    /  \                
+       7  10  15                 
+Press enter to delete next root
+
+deleting 78
+Single right rotation occured on 92
+Printing updated AVL tree
+                 8 
+                /\ 
+          ------  ------
+         /              \
+         4              92 
+         \              /\ 
+          --          --  --
+            \        /      \
+             7      14     100 
+                    /\         
+                   /  \        
+                  10  15         
+Press enter to delete next root
+
+deleting 8
+Printing updated AVL tree
+                10 
+                /\ 
+          ------  ------
+         /              \
+         4              92 
+         \              /\ 
+          --          --  --
+            \        /      \
+             7      14     100 
+                     \         
+                      \        
+                      15         
+Press enter to delete next root
+
+deleting 10
+Printing updated AVL tree
+        14 
+        /\ 
+      --  --
+     /      \
+     4      92 
+     \      /\ 
+      \    /  \
+       7  15 100 
+Press enter to delete next root
+
+deleting 14
+Printing updated AVL tree
+        15 
+        /\ 
+      --  --
+     /      \
+     4      92 
+     \       \ 
+      \       \
+       7     100 
+Press enter to delete next root
+
+deleting 15
+Printing updated AVL tree
+        92 
+        /\ 
+      --  --
+     /      \
+     4     100 
+     \         
+      \        
+       7         
+Press enter to delete next root
+
+deleting 92
+Double left right rotation occured on 100
+Printing updated AVL tree
+     7 
+    /\ 
+   /  \
+   4 100 
+Press enter to delete next root
+
+deleting 7
+Printing updated AVL tree
+   100 
+    /  
+   /   
+   4     
+Press enter to delete next root
+
+deleting 100
+Printing updated AVL tree
+   4 
+Press enter to delete next root
+
+deleting 4
+Printing updated AVL tree
+Press enter to time the tree insertions
+
+BST insertion took 3 milliseconds
+AVL insertion took 113 milliseconds
